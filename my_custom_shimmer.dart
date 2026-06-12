@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:karam/commons/app_dimensions.dart';
-import 'package:karam/commons/commons.dart';
-import 'package:karam/constants/colors.dart';
+import 'package:project/commons/app_dimensions.dart';
+import 'package:project/commons/commons.dart';
+import 'package:project/constants/colors.dart';
 
 class CommonShimmer extends StatefulWidget {
   const CommonShimmer({
